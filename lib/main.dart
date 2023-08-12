@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
                 Padding(padding: EdgeInsets.only(bottom: 50)),
                 Text(Strings.para_one ,style: TextStyle(fontSize: 14, fontStyle: FontStyle.normal, color: Colors.black),textAlign: TextAlign.justify),
                 Container(
-                  margin: EdgeInsets.only(left: 10,top: 15,right: 10, bottom: 5),
+                  margin: EdgeInsets.only(left: 10,top: 20,right: 10, bottom: 5),
                     child: Text(Strings.para_two ,style: TextStyle(fontSize: 14, fontStyle: FontStyle.normal, color: Colors.black),textAlign: TextAlign.justify ),
                 ),
 
